@@ -42,7 +42,4 @@ Halal ECode Codes [E-Numbers](https://www.halalsign.com/e-numbers/) which is bui
 **Version 1.0:**</br>
 * Initial version.</br>
 
-# Application tutorial on YouTube :
-[![Covid-19 Tutorial](https://img.youtube.com/vi/CFf3JKzsZcw/0.jpg)](https://www.youtube.com/watch?v=CFf3JKzsZcw)
-
 Written by Abdul Haseeb Mir.
