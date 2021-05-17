@@ -15,16 +15,16 @@ Halal ECode Codes [E-Numbers](https://www.halalsign.com/e-numbers/) which is bui
 
 ## Application Showcase.
 ### Application Main UI</br>
-![](https://github.com/haseeb-heaven/Covid-19-Tracker/blob/master/resources/app_main.png?source=raw?source=raw) </br>
+![](https://github.com/haseeb-heaven/Halal-ECodes-Checker/blob/master/resources/app_main.png?source=raw?source=raw) </br>
 
 ### Halal codes</br>
-![](https://github.com/haseeb-heaven/Covid-19-Tracker/blob/master/resources/app_halal.png?source=raw) </br>
+![](https://github.com/haseeb-heaven/Halal-ECodes-Checker/blob/master/resources/app_halal.png?source=raw) </br>
 
 ### Haram codes</br>
-![](https://github.com/haseeb-heaven/Covid-19-Tracker/blob/master/resources/app_haram.png?source=raw) </br>
+![](https://github.com/haseeb-heaven/Halal-ECodes-Checker/blob/master/resources/app_haram.png?source=raw) </br>
 
 ### Musbooh codes</br>
-![](https://github.com/haseeb-heaven/Covid-19-Tracker/blob/master/resources/app_musbooh.png?source=raw) </br>
+![](https://github.com/haseeb-heaven/Halal-ECodes-Checker/blob/master/resources/app_musbooh.png?source=raw) </br>
 
 ## Features
 * Get data for more than **500 items** </br>
