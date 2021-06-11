@@ -37,6 +37,8 @@ Halal ECode Codes [E-Numbers](https://www.halalsign.com/e-numbers/) which is bui
 ## Prerequisites
 * .NET 5.0
 
+## Youtube Showcase:
+[![ECode checker](http://img.youtube.com/vi/-fC-4LYwTyM/0.jpg)](https://www.youtube.com/watch?v=-fC-4LYwTyM) </br>
 
 ## Changelogs
 **Version 1.0:**</br>
